@@ -1,8 +1,9 @@
 ## Hi there 👋
 
 ### About me
-To start, I'm not a developer, so there are no personal projects here. \
-I'm more into the investigative part of computing.
+To start, I'm not a developer, so there are no big personal projects here. \
+I don't feel passionate about development so my public stuff is unlikely to get updates, just fixes.\
+However, I'm into the investigative part of computing, by far much more thrilling.
 
 ### Why does this exists?
 I just wanted to decorate my profile a little bit.
@@ -22,6 +23,7 @@ Even if I'm not a developer, I did ~~unfortunately~~ had to learn a few language
 <img src= "assets/languages/c.svg"/>
 <img src= "assets/languages/c++.svg"/>
 <img src= "assets/languages/rust.svg"/>
+<img src= "assets/languages/go.svg"/>
 <img src= "assets/languages/java.svg"/>
 <img src= "assets/languages/python.svg"/>
 <img src= "assets/languages/kotlin.svg"/>
@@ -31,7 +33,6 @@ Even if I'm not a developer, I did ~~unfortunately~~ had to learn a few language
 
 #### Languages I know but don't feel confident enough
 <p align="center">
-<img src= "assets/languages/go.svg"/>
 <img src= "assets/languages/cs.svg"/>
 <img src= "assets/languages/shell.svg"/>
 <img src= "assets/languages/haskell.svg"/>
