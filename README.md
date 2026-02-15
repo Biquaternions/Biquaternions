@@ -62,11 +62,11 @@ Even if I'm not a developer, I did ~~unfortunately~~ had to learn a few language
 
 ### Social Media
 <p align="center">
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src= "assets/socials/discord.svg"/></a>
+<img src= "assets/socials/discord.svg" title="@biquaternions"/>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src= "assets/socials/twitter.svg"/></a>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src= "assets/socials/instagram.svg"/></a>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src= "assets/socials/linkedin.svg"/></a>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src= "assets/socials/proton.svg"/></a>
+<a href="mailto:contact@biquaternions.me"><img src= "assets/socials/proton.svg"/></a>
 </p>
 
 ##### About the badges
